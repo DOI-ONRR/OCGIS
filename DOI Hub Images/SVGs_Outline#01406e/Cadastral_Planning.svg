@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Cadastral_Planning" data-name="Cadastral/Planning" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #01406e;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M104.89,119.76H15.1c-8.2,0-14.87-6.67-14.87-14.87V15.1C.23,6.9,6.9,.23,15.1,.23H104.89c8.2,0,14.87,6.67,14.87,14.87V104.89c0,8.2-6.67,14.87-14.87,14.87ZM15.1,8.6c-3.58,0-6.5,2.91-6.5,6.5V104.89c0,3.58,2.91,6.5,6.5,6.5H104.89c3.58,0,6.5-2.91,6.5-6.5V15.1c0-3.58-2.91-6.5-6.5-6.5H15.1Z"/>
+  <rect class="cls-1" x="37.74" y="15.9" width="2.99" height="18.64" rx="1.49" ry="1.49"/>
+  <rect class="cls-1" x="78.31" y="15.9" width="2.99" height="18.64" rx="1.49" ry="1.49"/>
+  <rect class="cls-1" x="93.49" y="30.39" width="2.99" height="18.64" rx="1.49" ry="1.49" transform="translate(134.7 -55.27) rotate(90)"/>
+  <rect class="cls-1" x="93.49" y="70.96" width="2.99" height="18.64" rx="1.49" ry="1.49" transform="translate(175.26 -14.71) rotate(90)"/>
+  <rect class="cls-1" x="23.71" y="30.39" width="2.99" height="18.64" rx="1.49" ry="1.49" transform="translate(64.92 14.51) rotate(90)"/>
+  <rect class="cls-1" x="23.71" y="70.96" width="2.99" height="18.64" rx="1.49" ry="1.49" transform="translate(105.48 55.07) rotate(90)"/>
+  <rect class="cls-1" x="37.74" y="85.45" width="2.99" height="18.64" rx="1.49" ry="1.49"/>
+  <rect class="cls-1" x="78.31" y="85.45" width="2.99" height="18.64" rx="1.49" ry="1.49"/>
+  <path class="cls-1" d="M75.19,81.77h-31.34c-3.37,0-6.11-2.74-6.11-6.11v-31.34c0-3.37,2.74-6.11,6.11-6.11h31.34c3.37,0,6.11,2.74,6.11,6.11v31.34c0,3.37-2.74,6.11-6.11,6.11Zm-31.34-40.72c-1.81,0-3.28,1.47-3.28,3.28v31.34c0,1.81,1.47,3.28,3.28,3.28h31.34c1.81,0,3.28-1.47,3.28-3.28v-31.34c0-1.81-1.47-3.28-3.28-3.28h-31.34Z"/>
+</svg>

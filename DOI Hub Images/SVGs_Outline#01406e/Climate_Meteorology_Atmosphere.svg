@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Climate_Meteorology_Atmosphere" data-name="Climate/Meteorology/Atmosphere" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #01406e;
+      }
+
+      .cls-2 {
+        fill:#01406e;
+        stroke: #01406e;
+        stroke-miterlimit: 10;
+        stroke-width: 3.45px;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M104.89,119.76H15.1c-8.2,0-14.87-6.67-14.87-14.87V15.1C.23,6.9,6.9,.23,15.1,.23H104.89c8.2,0,14.87,6.67,14.87,14.87V104.89c0,8.2-6.67,14.87-14.87,14.87ZM15.1,8.6c-3.58,0-6.5,2.91-6.5,6.5V104.89c0,3.58,2.91,6.5,6.5,6.5H104.89c3.58,0,6.5-2.91,6.5-6.5V15.1c0-3.58-2.91-6.5-6.5-6.5H15.1Z"/>
+  <path class="cls-1" d="M69.68,30.78c-11.18,0-20.45,8.37-21.87,19.17,1.14-.05,2.32,.09,3.43,.39,1.23-9.08,9.03-16.11,18.44-16.11,10.26,0,18.61,8.35,18.61,18.61,0,6.6-3.46,12.39-8.64,15.7,.62,.97,1.09,2.05,1.4,3.19,6.4-3.87,10.7-10.88,10.7-18.89,0-12.17-9.9-22.06-22.06-22.06Z"/>
+  <path class="cls-2" d="M80.55,70.51c-1.64-6.76-8.33-10.95-15.09-9.56-2.77-6.67-9.34-11.37-17.01-11.37-9.73,0-17.68,7.56-18.35,17.12-.02,0-.04,0-.07,0-6.78,0-12.28,5.5-12.28,12.28h61.94c1.19-2.55,1.56-5.51,.85-8.46Z"/>
+  <rect class="cls-1" x="68.27" y="13.46" width="2.83" height="9.91" rx="1.13" ry="1.13"/>
+  <rect class="cls-1" x="88.6" y="20.16" width="2.83" height="9.91" rx="1.13" ry="1.13" transform="translate(44.13 -56.3) rotate(45)"/>
+  <rect class="cls-1" x="98.52" y="38.96" width="2.83" height="9.91" rx="1.13" ry="1.13" transform="translate(143.85 -56.02) rotate(90)"/>
+  <rect class="cls-1" x="48.14" y="20.16" width="2.83" height="9.91" rx="1.13" ry="1.13" transform="translate(102.36 7.84) rotate(135)"/>
+  <rect class="cls-1" x="38.23" y="38.96" width="2.83" height="9.91" rx="1.13" ry="1.13" transform="translate(83.56 4.28) rotate(90)"/>
+  <rect class="cls-1" x="96.77" y="59.32" width="2.83" height="9.91" rx="1.13" ry="1.13" transform="translate(213.06 40.3) rotate(135)"/>
+  <rect class="cls-1" x="22.9" y="83.1" width="2.83" height="22.66" rx="1.13" ry="1.13" transform="translate(31.84 -2.79) rotate(18.87)"/>
+  <rect class="cls-1" x="34.45" y="77.74" width="2.83" height="22.66" rx="1.13" ry="1.13" transform="translate(30.73 -6.81) rotate(18.87)"/>
+  <rect class="cls-1" x="44.22" y="83.1" width="2.83" height="22.66" rx="1.13" ry="1.13" transform="translate(32.99 -9.68) rotate(18.87)"/>
+  <rect class="cls-1" x="64.28" y="83.1" width="2.83" height="22.66" rx="1.13" ry="1.13" transform="translate(34.07 -16.17) rotate(18.87)"/>
+  <rect class="cls-1" x="55.77" y="77.74" width="2.83" height="22.66" rx="1.13" ry="1.13" transform="translate(31.88 -13.71) rotate(18.87)"/>
+</svg>
