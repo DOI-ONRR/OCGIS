@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Economy" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+        stroke: #01406e;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-3 {
+        stroke-width: 6.08px;
+      }
+
+      .cls-2 {
+        stroke-width: 5.9px;
+      }
+
+      .cls-4 {
+        font-family: MyriadPro-Bold, 'Myriad Pro';
+        font-size: 59.39px;
+      }
+
+      .cls-4, .cls-5 {
+        fill: #01406e;
+      }
+
+      .cls-3 {
+        stroke-dasharray: 0 0 9.17 3.44;
+      }
+    </style>
+  </defs>
+  <path class="cls-5" d="M104.89,119.76H15.1c-8.2,0-14.87-6.67-14.87-14.87V15.1C.23,6.9,6.9,.23,15.1,.23H104.89c8.2,0,14.87,6.67,14.87,14.87V104.89c0,8.2-6.67,14.87-14.87,14.87ZM15.1,8.6c-3.58,0-6.5,2.91-6.5,6.5V104.89c0,3.58,2.91,6.5,6.5,6.5H104.89c3.58,0,6.5-2.91,6.5-6.5V15.1c0-3.58-2.91-6.5-6.5-6.5H15.1Z"/>
+  <g>
+    <path class="cls-1" d="M98.48,60c0,1.56-.09,3.09-.27,4.6"/>
+    <path class="cls-3" d="M97.64,67.99c-3.67,17.23-18.98,30.14-37.3,30.14-21.06,0-38.14-17.07-38.14-38.14S39.28,21.86,60.34,21.86c18.91,0,34.61,13.77,37.62,31.83"/>
+    <path class="cls-1" d="M98.2,55.4c.18,1.51,.27,3.04,.27,4.6"/>
+  </g>
+  <path class="cls-2" d="M97.34,60c0,20.44-16.57,37-37,37S23.34,80.44,23.34,60,39.9,23,60.34,23s37,16.57,37,37"/>
+  <text class="cls-4" transform="translate(44.22 81.53)"><tspan x="0" y="0">S</tspan></text>
+  <rect class="cls-5" x="58.53" y="29.98" width="6.07" height="15.29" rx="2.63" ry="2.63"/>
+  <rect class="cls-5" x="58.53" y="75.73" width="6.07" height="15.29" rx="2.63" ry="2.63"/>
+</svg>
